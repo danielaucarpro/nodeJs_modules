@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "name": "app",
+  "version": "1.0.0",
+  "description": "my first express node file",
+  "main": "app.js",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "daniel aucar felipe",
+  "license": "ISC"
+}
